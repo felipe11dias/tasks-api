@@ -1,25 +1,19 @@
-# README
+# Tasks API - Backend
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Backend
+Módulo de tasks
 
-Things you may want to cover:
+## Features
+- Api para os CRUD de Tasks(Tarefas)
 
-* Ruby version
+## Tecnologias utilizadas
+- [Ruby](https://www.ruby-lang.org/pt/)
+- [Ruby on Rails](https://rubyonrails.org/)
+- [SQLite3](https://www.sqlite.org/index.html)
 
-* System dependencies
+## Instalação
+Faça o clone do projeto no git, canto superior direito no repositório do projeto(Botão 'Code').
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# tasks-api
+Utilize dos comando na pasta do projeto:
+- Use o comando: bundle install(Instala as dependências)
+- Use o comando: rails server(Rodar o projeto, levantar o servidor para receber requisições)
